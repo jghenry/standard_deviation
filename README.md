@@ -4,7 +4,6 @@ Author: James Henry
 
 Date: November 22, 2016
 
-[![Build Status](https://travis-ci.org/jghenry/standard_deviation.svg?branch=master)](https://travis-ci.org/jghenry/standard_deviation)
 
 ## What does it do?
 
