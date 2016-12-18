@@ -8,7 +8,7 @@ Date: November 22, 2016
 ## What does it do?
 
 This package calculates standard deviation in Python
- 
+
 ## Where to find it?
 
 The source code is hosted on GitHub at: https://github.ubc.ca/jghenry/standard_deviation
@@ -42,3 +42,8 @@ None
 ## License
 
 MIT
+
+## Tests
+1. clone repo
+2. install pytest (`pip install -U pytest`)
+3. navigate to root directory of `standard_deviation` (this is the repo you just cloned) and run `pytest`
