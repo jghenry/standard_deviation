@@ -2,13 +2,13 @@
 
 Author: James Henry
 
-Date: November 22, 2016
+Date: December 17, 2016
 
 [![Build Status](https://travis-ci.org/jghenry/standard_deviation.svg?branch=master)](https://travis-ci.org/jghenry/standard_deviation)
 
 ## What does it do?
 
-This package calculates standard deviation in Python
+This package calculates standard deviation and standard error in Python
 
 ## Where to find it?
 
@@ -32,6 +32,9 @@ OR
 from sd_py.sd import *
 standard_deviation([0,1,2])
 ```
+
+The same syntax applies for the standard_error function 
+
 ## Release
 
 Latest release 0.1dev
