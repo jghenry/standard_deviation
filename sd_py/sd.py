@@ -1,4 +1,5 @@
 def standard_deviation(x):
+
 """
 This function calculates the standard deviation of a list.
 Input: list of numeric values.
